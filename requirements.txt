@@ -10,7 +10,7 @@ httpx[http2]
 img2pdf
 tglogging
 async-lru==2.0.2
-certifi==2023.5.7
+certifi==2023.7.22
 charset-normalizer==3.1.0
 idna==3.4
 mutagen==1.46.0
@@ -23,10 +23,11 @@ soupsieve==2.4.1
 TgCrypto==1.2.5
 urllib3==2.0.3
 websockets==11.0.3
-yt-dlp==2023.6.22
+yt-dlp==2023.10.13
 motor
 aiohttp==3.8.4
 aiofiles
 pytz
 umongo==3.1.0
 speedtest-cli
+ffmpeg
